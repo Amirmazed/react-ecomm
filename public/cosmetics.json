@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Alta",
+      "price": 25,
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Nail Polish",
+      "price": 500,
+      "gender": "female"
+    },
+    {
+      "id": 3,
+      "name": "face mask",
+      "price": 255,
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "name": "Mascara",
+      "price": 590,
+      "gender": "female"
+    }
+  ]
