@@ -4,3 +4,6 @@ spendings are also shown in the
 cart component. The budget of this movie will be 250 million 
 
 ***** here i've loaded data from public folder****
+
+
+live website: https://mission-impossible-amirmazed.netlify.app/
